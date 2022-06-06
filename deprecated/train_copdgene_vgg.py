@@ -35,7 +35,7 @@ if __name__ == '__main__':
 	parent_dir = args.data_directory
 
 	# Pull the list of files
-	train_images, train_labels  = pullRandomNrrds(parent_dir, num_files=num_files)
+	train_images, train_labels  = pull_random_nrrds(parent_dir, num_files=num_files)
 	
 	# Split test set
 	test_images = []
