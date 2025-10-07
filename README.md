@@ -1,4 +1,4 @@
-# GIL - Generalized Image Learning 
+# GIDL - Generalized Image Deep Learning 
 
 ## Purpose
 This repo houses the initial scripts for building a deep learning app on BioData Catalyst powered by Seven Bridges. These scripts will be used to test training scalability, among other issues.
